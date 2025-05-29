@@ -1,5 +1,7 @@
 body {
     font-family: "Roboto"; sans-serif;
+    color: 434455;
+    background-color: #ffffff;
 }
 
 ul {
@@ -100,19 +102,45 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #404bbf;
 }
 
-.heading {
-    background: #f4f4fd;
+.advantages-subtitle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
+
+.advantages-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
 .heading {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
+background: #f4f4fd;
 }
 
-.team-subtitle {
+.caption {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42;
+background-color: #ffffff;
+}
+
+.subtitle {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -121,7 +149,7 @@ text-align: center;
 color: #2e2f42;
 }
 
-.team-item-text {
+.text {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
