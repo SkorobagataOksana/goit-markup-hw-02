@@ -106,6 +106,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-item {
+    background-color: #fff;
+}
 .heading {
 font-weight: 700;
 font-size: 36px;
@@ -114,11 +121,15 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
-background: #f4f4fd;
+background-color: #f4f4fd;
+}
+
+.portfolio {
+background-color: #fff;
 }
 
 .caption {
-background: #ffffff;
+    background-color: #fff;
 }
 
 .subtitle {
